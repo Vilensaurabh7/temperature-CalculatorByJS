@@ -43,3 +43,21 @@ html{
    font-weight: bolder;
  
 }
+@media (max-width:998px){
+    html{
+      font-size: 37%;
+      color: blue;
+    }
+}
+@media (max-width:750px){
+    html{
+      font-size: 24%;
+      color: rgb(252, 8, 110);
+    }
+}
+@media (max-width:420px){
+    html{
+      font-size: 15%;
+      color: rgb(252, 8, 110);
+    }
+}
